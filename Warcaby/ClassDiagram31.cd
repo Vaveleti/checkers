@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Board">
+    <Position X="0.5" Y="3.25" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAIAAAAAAAAAAAgAAEAAAiAACAA=</HashCode>
+      <FileName>Board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Human">
+    <Position X="9.25" Y="2.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAQGAAABAAAQAAAAAAEQAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Human.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pawn">
+    <Position X="4.25" Y="1" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAABAAAgAhAAAoEIBAiAAAAAAgAAAAAAAAACAA=</HashCode>
+      <FileName>Pawn.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
