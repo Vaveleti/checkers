@@ -1,1 +1,1 @@
-Warcaby
+Read license
